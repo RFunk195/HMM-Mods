@@ -23,5 +23,9 @@ delete core_main/mod.ini
 delete core_main/disk/bb3/!delete #Sonicar00 and #Sonicarl.txt
 delete core_main/disk/bb3/#Sonic.ar.00
 delete core_main/disk/bb3/#Sonic.arl
+delete core_main/disk/bb3/NoQuickStepFix/#Application.ar.00
+delete core_main/disk/bb3/NoQuickStepFix/#Application.arl
+delete core_main/disk/bb3/NoQuickStepFix/NoticeBoard.ar.00
+delete core_main/disk/bb3/NoQuickStepFix/NoticeBoard.arl
 delete core_night/disk from HoloskaNightHUB goes here.txt
 delete core_night/mod.ini
