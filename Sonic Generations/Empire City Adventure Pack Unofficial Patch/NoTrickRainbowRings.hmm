@@ -1,0 +1,2 @@
+Patch "No Trick Rainbow Rings" by "Hyper"
+WriteNop(0x115A6AF, 2);

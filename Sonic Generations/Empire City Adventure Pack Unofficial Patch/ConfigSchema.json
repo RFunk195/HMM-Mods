@@ -1,0 +1,73 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "Options",
+         "Elements": [
+            {
+               "Name": "IncludeDir1",
+               "DisplayName": "Unleashed Physics",
+               "Description": [
+                  "Enable Unleashed Physics, which drastically changes Sonic's physics such as longer homing attack, air boost and air dash.",
+               ],
+               "Type": "PhysicsEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_phy"
+            },
+
+			   {
+               "Name": "IncludeDir0",
+               "DisplayName": "Hub World Time of Day",
+               "Description": [
+                  "Experience Empire City Hub world during day time or night time",
+               ],
+               "Type": "NightEnum",
+               "MinValue": null,
+               "MaxValue": null,
+               "DefaultValue": "core_dummy"
+            },
+
+         ]
+      }
+   ],
+   
+   "Enums": {
+
+      "PhysicsEnum": [
+         {
+            "DisplayName": "Enable",
+            "Value": "core_phy",
+            "Description": [
+               "Enable Unleashed Physics",
+            ]
+         },
+         {
+            "DisplayName": "Disable",
+            "Value": "core_dummy",
+            "Description": [
+               "Disable Unleashed Physics, default Generations physics will be used in all stages",
+            ]
+         },        
+      ],
+	  
+	  "NightEnum": [		 
+		   {
+            "DisplayName": "Day time",
+            "Value": "core_dummy",
+            "Description": [
+               "Switch Empire City hub to day time",
+            ]
+         },
+
+         {
+            "DisplayName": "Night time",
+            "Value": "core_night",
+            "Description": [
+               "Switch Empire City hub to night time",
+            ]
+         },
+      ],
+   },
+   "IniFile": "mod.ini"
+}

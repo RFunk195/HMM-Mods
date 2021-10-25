@@ -1,0 +1,68 @@
+add mod.ini
+add README FOR INSTRUCTIONS.txt
+add ConfigSchema.json
+add NoTrickRainbowRings.hmm
+add ScoreGenerations.ini
+add ScoreGenerations.lua
+add core_day/disk/bb2/#pam000.ar.00
+add core_day/disk/bb2/#pam000.arl
+add core_day/disk/bb2/Packed/pam000/pam000.ar.00
+add core_day/disk/bb2/Packed/pam000/pam000.ar.01
+add core_day/disk/bb2/Packed/pam000/pam000.ar.02
+add core_day/disk/bb2/Packed/pam000/pam000.ar.03
+add core_day/disk/bb2/Packed/pam000/pam000.ar.04
+add core_day/disk/bb2/Packed/pam000/pam000.ar.05
+add core_day/disk/bb2/Packed/pam000/pam000.arl
+add core_day/disk/bb2/Packed/pam000/Stage.pfd
+add core_day/disk/bb2/Packed/pam000/Stage-Add.pfd
+add core_day/disk/bb3/HubMusic.ar.00
+add core_day/disk/bb3/HubMusic.arl
+add core_main/disk/bb/#ghz200.ar.00
+add core_main/disk/bb/#ghz200.arl
+add core_main/disk/bb/#SystemCommon.ar.00
+add core_main/disk/bb/#SystemCommon.arl
+add core_main/disk/bb2/#cpz000.ar.00
+add core_main/disk/bb2/#cpz000.arl
+add core_main/disk/bb2/#cte000.ar.00
+add core_main/disk/bb2/#cte000.arl
+add core_main/disk/bb2/#euc200.ar.00
+add core_main/disk/bb2/#euc200.arl
+add core_main/disk/bb2/#pla200.ar.00
+add core_main/disk/bb2/#pla200.arl
+add core_main/disk/bb2/#ssh200.ar.00
+add core_main/disk/bb2/#ssh200.arl
+add core_main/disk/bb2/#ssz200.arl
+add core_main/disk/bb3/#Application.ar.00
+add core_main/disk/bb3/#Application.arl
+add core_main/disk/bb3/StageMusic.ar.00
+add core_main/disk/bb3/StageMusic.arl
+add core_phy/disk/bb3/#Sonic.ar.00
+add core_phy/disk/bb3/#Sonic.arl
+delete core_day/disk/bb2/!transfer #pam000.ar.00 and #pam000.arl from core_main here.txt
+delete core_day/disk/bb2/Packed/!transfer pam000 folder from core_main here.txt
+delete core_day/disk/bb3/!transfer HubMusic.ar.00 and HubMusic.arl from core_main here.txt
+delete core_main/disk and Saves, from SpagoniaPack go here.txt
+delete core_main/mod.ini
+delete core_main/Sound/SNG08_EUC/Synth/EMBB033_RooftopRun_3D_FXd_wav.aax
+delete core_main/Sound/SNG08_EUC/Synth/EMBB033_RooftopRun_3D_Normal_wav.aax
+delete core_main/disk/bb2/!transfer #pam000.ar.00 and #pam000.arl to core_day directory.txt
+delete core_main/disk/bb2/#pam000.ar.00
+delete core_main/disk/bb2/#pam000.arl
+delete core_main/disk/bb2/Packed/!transfer pam000 to core_day directory.txt
+delete core_main/disk/bb2/Packed/pam000/pam000.ar.00
+delete core_main/disk/bb2/Packed/pam000/pam000.ar.01
+delete core_main/disk/bb2/Packed/pam000/pam000.ar.02
+delete core_main/disk/bb2/Packed/pam000/pam000.ar.03
+delete core_main/disk/bb2/Packed/pam000/pam000.ar.04
+delete core_main/disk/bb2/Packed/pam000/pam000.ar.05
+delete core_main/disk/bb2/Packed/pam000/pam000.arl
+delete core_main/disk/bb2/Packed/pam000/Stage.pfd
+delete core_main/disk/bb2/Packed/pam000/Stage-Add.pfd
+delete core_main/disk/bb3/!delete #Sonicar00 and #Sonicarl.txt
+delete core_main/disk/bb3/!transfer HubMusic.ar.00 and HubMusic.arl to core_day directory.txt
+delete core_main/disk/bb3/#Sonic.ar.00
+delete core_main/disk/bb3/#Sonic.arl
+delete core_main/disk/bb3/HubMusic.ar.00
+delete core_main/disk/bb3/HubMusic.arl
+delete core_night/disk from HoloskaNightHUB goes here.txt
+delete core_night/mod.ini

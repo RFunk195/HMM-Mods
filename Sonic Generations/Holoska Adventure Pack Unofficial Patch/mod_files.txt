@@ -1,0 +1,27 @@
+add mod.ini
+add README FOR INSTRUCTIONS.txt
+add ConfigSchema.json
+add IcePillars.dll
+add NoTrickRainbowRings.hmm
+add ScoreGenerations.ini
+add ScoreGenerations.lua
+add core_main/disk/bb/#ghz200.ar.00
+add core_main/disk/bb/#ssz200.ar.00
+add core_main/disk/bb/#SystemCommon.ar.00
+add core_main/disk/bb/#SystemCommon.arl
+add core_main/disk/bb/Packed/ghz200/ghz.ar.00
+add core_main/disk/bb2/#cpz000.ar.00
+add core_main/disk/bb2/#csc000.ar.00
+add core_main/disk/bb2/#cte000.ar.00
+add core_main/disk/bb2/#pla000.ar.00
+add core_main/disk/bb3/#Application.ar.00
+add core_main/disk/bb3/#Application.arl
+add core_phy/disk/bb3/#Sonic.ar.00
+add core_phy/disk/bb3/#Sonic.arl
+delete core_main/disk and Saves from HoloskaPack go here.txt
+delete core_main/mod.ini
+delete core_main/disk/bb3/!delete #Sonicar00 and #Sonicarl.txt
+delete core_main/disk/bb3/#Sonic.ar.00
+delete core_main/disk/bb3/#Sonic.arl
+delete core_night/disk from HoloskaNightHUB goes here.txt
+delete core_night/mod.ini
