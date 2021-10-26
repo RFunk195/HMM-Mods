@@ -27,8 +27,8 @@ and not extract the mod.ini file or Sound folder. Auto-updating otherwise adds b
 unnecessary files for you).
 
 4. Within the zip file, there's a folder titled "EmpireCityNightHUB" which is the night hub add-on. Inside that folder, 
-extract the "disk" folder and place it within my mod's "core_night" folder (Again, the mod.ini file isn't needed, but 
-it ultimately doesn't matter if you auto-update).
+extract the "disk" folder and place it within my mod's "core_night" folder (Again, the mod.ini file isn't needed and 
+replacing overwrites patch files, but it ultimately doesn't matter if you auto-update).
 
 5. Open HedgeModManager, and you should receive the auto-update pop-up within a couple seconds. Click "Update" and wait 
 for it to complete.
