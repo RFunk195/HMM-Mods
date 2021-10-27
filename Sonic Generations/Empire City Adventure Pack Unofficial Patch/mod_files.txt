@@ -11,8 +11,8 @@ add core_main/disk/bb/#SystemCommon.ar.00
 add core_main/disk/bb/#SystemCommon.arl
 add core_main/disk/bb/trickringgone.ar.00
 add core_main/disk/bb/trickringgone.arl
-add core_main/disk/bb2/#euc000.ar.00
-add core_main/disk/bb2/#euc000.arl
+add core_main/disk/bb2/#euc200.ar.00
+add core_main/disk/bb2/#euc200.arl
 add core_main/disk/bb2/#pam000.ar.00
 add core_main/disk/bb2/#pam000.arl
 add core_main/disk/bb3/#Application.ar.00
