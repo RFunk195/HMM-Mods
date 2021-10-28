@@ -21,10 +21,10 @@ add core_main/disk/bb/#ghz200.ar.00
 add core_main/disk/bb/#ghz200.arl
 add core_main/disk/bb/#SystemCommon.ar.00
 add core_main/disk/bb/#SystemCommon.arl
-add core_main/disk/bb2/#cpz000.ar.00
-add core_main/disk/bb2/#cpz000.arl
-add core_main/disk/bb2/#cte000.ar.00
-add core_main/disk/bb2/#cte000.arl
+add core_main/disk/bb2/#cpz200.ar.00
+add core_main/disk/bb2/#cpz200.arl
+add core_main/disk/bb2/#cte200.ar.00
+add core_main/disk/bb2/#cte200.arl
 add core_main/disk/bb2/#euc200.ar.00
 add core_main/disk/bb2/#euc200.arl
 add core_main/disk/bb2/#pla200.ar.00

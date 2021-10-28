@@ -1,0 +1,1 @@
+- Fix rainbow ring sound not playing in Act 1(-2)
