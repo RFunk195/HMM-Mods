@@ -1,0 +1,1 @@
+- Determine if and how object bugs in hub world trigger
