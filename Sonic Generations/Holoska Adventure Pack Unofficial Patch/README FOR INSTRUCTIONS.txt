@@ -12,7 +12,7 @@ auto-update, and load the mod. Below are the instructions for the file transfer 
 
 ----Instructions----
 Due to the complexity of these instructions, I've also made a video tutorial if you need the extra help:
-[INSERT VIDEO LINK HERE]
+https://youtu.be/L8y1RdiXekU
 
 1. To start, make sure you've placed my mod's primary folder, "Holoska Adventure Pack Unofficial Patch", 
 into the mods folder.

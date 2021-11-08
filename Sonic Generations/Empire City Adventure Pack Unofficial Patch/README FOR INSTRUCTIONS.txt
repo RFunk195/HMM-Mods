@@ -12,7 +12,7 @@ auto-update, and load the mod. Below are the instructions for the file transfer 
 
 ----Instructions----
 If the written instructions are too complex for you, you can watch the video guide I made here:
-[INSERT VIDEO LINK HERE]
+https://youtu.be/L8y1RdiXekU
 
 1. To start, make sure you've placed my mod's primary folder, "Empire City Adventure Pack Unofficial Patch", 
 into the mods folder.

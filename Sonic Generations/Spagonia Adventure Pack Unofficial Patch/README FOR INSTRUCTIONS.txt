@@ -12,7 +12,7 @@ file transfer process.
 
 ----Instructions----
 Due to the complexity of these instructions, I've also made a video tutorial if you need the extra help:
-[INSERT VIDEO LINK HERE]
+https://youtu.be/L8y1RdiXekU
 
 1. To start, make sure you've placed my mod's primary folder, "Spagonia Adventure Pack Unofficial Patch", 
 into the mods folder.
