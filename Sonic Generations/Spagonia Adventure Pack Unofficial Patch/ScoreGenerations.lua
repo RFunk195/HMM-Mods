@@ -42,25 +42,25 @@ function calculateSpeedBonus()
 	-- Assign speed bonus multiplier for specific stages
 	-- Act 1
 	if (stageID == "ssh200") then
-		sbMultiplier = 8
+		sbMultiplier = 70
 	-- Act 1-2
 	elseif (stageID == "ghz200") then
-		sbMultiplier = 4.5
+		sbMultiplier = 45
 	-- Act 2
 	elseif (stageID == "euc200") then
-		sbMultiplier = 6.5
+		sbMultiplier = 65
 	-- Act 2-2
 	elseif (stageID == "ssz200") then
-		sbMultiplier = 4
+		sbMultiplier = 40
 	-- Act 3
 	elseif (stageID == "cte200") then
-		sbMultiplier = 10
+		sbMultiplier = 100
 	-- Act 4
 	elseif (stageID == "pla200") then
-		sbMultiplier = 8
+		sbMultiplier = 80
 	-- Act 5
 	elseif (stageID == "cpz200") then
-		sbMultiplier = 4
+		sbMultiplier = 40
 	-- Tornado
 	else
 		sbMultiplier = 0

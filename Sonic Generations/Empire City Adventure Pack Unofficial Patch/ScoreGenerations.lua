@@ -30,13 +30,13 @@ function calculateSpeedBonus()
 	-- Assign speed bonus multiplier for specific stages
 	-- Act 1-2
 	if (stageID == "ghz200") then
-		sbMultiplier = 4.5
+		sbMultiplier = 40
 	-- Act 2
 	elseif (stageID == "cpz200") then
 		sbMultiplier = 0
 	-- Act 3
 	elseif (stageID == "euc200") then
-		sbMultiplier = 5.5
+		sbMultiplier = 60
 	-- Town
 	else
 		sbMultiplier = 0

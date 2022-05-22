@@ -1,3 +1,8 @@
+## Empire City Adventure Pack Unofficial Patch Version 2.4.2
+
+- Score Generations: Disabled perfect bonus and the need for it to obtain S Ranks
+- Score Generations: Fixed inaccurate speed bonus calculation
+
 ## Empire City Adventure Pack Unofficial Patch Version 2.4.1
 
 - Added auto-update support

@@ -1,3 +1,8 @@
+## Holoska Adventure Pack Unofficial Patch Version 1.4.3
+
+- Score Generations: Disabled perfect bonus and the need for it to obtain S Ranks
+- Score Generations: Fixed inaccurate speed bonus calculation
+
 ## Holoska Adventure Pack Unofficial Patch Version 1.4.2
 
 - Added auto-update support

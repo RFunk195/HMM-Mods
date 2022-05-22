@@ -1,3 +1,8 @@
+## Spagonia Adventure Pack Unofficial Patch Version 1.5.2
+
+- Score Generations: Disabled perfect bonus and the need for it to obtain S Ranks
+- Score Generations: Fixed inaccurate speed bonus calculation
+
 ## Spagonia Adventure Pack Unofficial Patch Version 1.5.1
 
 - Added auto-update support
