@@ -129,3 +129,5 @@ https://gamebanana.com/members/1673715
 1.1 - Updated time bonus script in lua file using code provided from Hyper, lowered 
 homing/slam bonus cap, increased rank tables for B and C rank, and added update 
 server.
+
+1.2 - Disabled perfect bonus and the need for it to obtain S Ranks

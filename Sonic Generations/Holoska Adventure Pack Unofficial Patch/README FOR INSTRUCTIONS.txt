@@ -118,3 +118,5 @@ http://www.youtube.com/ChimeraReiax
 1.4.1 - Added anti-tamper to stage files
 
 1.4.2 - Added auto-update support
+
+1.4.3 - Score Generations: Disabled perfect bonus and the need for it to obtain S Ranks, and fixed inaccurate speed bonus calculation

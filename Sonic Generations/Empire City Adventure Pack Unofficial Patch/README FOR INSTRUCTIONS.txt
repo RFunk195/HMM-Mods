@@ -117,3 +117,5 @@ physics in Act 3
 2.4 - Fixed building disappearance in Act 1-2; Restored Unleashed ramp sfx
 
 2.4.1 - Added auto-update support
+
+2.4.2 - Score Generations: Disabled perfect bonus and the need for it to obtain S Ranks, and fixed inaccurate speed bonus calculation

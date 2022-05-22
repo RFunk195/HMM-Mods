@@ -116,3 +116,5 @@ http://www.youtube.com/ChimeraReiax
 1.5 - Added support for Chip Returns; Added anti-tamper to stage files
 
 1.5.1 - Added auto-update support
+
+1.5.2 - Score Generations: Disabled perfect bonus and the need for it to obtain S Ranks, and fixed inaccurate speed bonus calculation
