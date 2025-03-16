@@ -25,3 +25,5 @@ https://gamebanana.com/members/3476761
 
 ---CHANGELOG---
 1.0 - Initial Release
+
+1.1 - Update necessary script for Like a Werehog compatibility
