@@ -6,7 +6,7 @@
 		"Elements":
 			[
 				{
-					"Name":"IncludeDir0",
+					"Name":"IncludeDir1",
 					"DisplayName":"Layout",
 					"Description":[
 						"Choose between two different level layouts for Act 1."
@@ -17,7 +17,7 @@
 					"DefaultValue":"layoutFinal"
 				},
                 {
-					"Name":"IncludeDir1",
+					"Name":"IncludeDir2",
 					"DisplayName":"Medal/Media Locations",
 					"Description":[
 						"Choose between two different options for placing Act 1's hidden medals and media collectibles."
@@ -28,7 +28,7 @@
 					"DefaultValue":"itemFinal"
 				},
                 {
-					"Name":"IncludeDir2",
+					"Name":"IncludeDir3",
 					"DisplayName":"Ranking",
 					"Description":[
 						"Choose whether to enable/disable the mod's tweaked rank table."
