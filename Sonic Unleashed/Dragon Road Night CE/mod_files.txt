@@ -1,4 +1,5 @@
 add mod.ini
 add README.txt
+add Config.json
 add rankTweaked/+#Application.ar.00
 add rankTweaked/+#Application.arl
