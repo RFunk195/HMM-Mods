@@ -27,3 +27,5 @@ https://gamebanana.com/members/3476761
 1.0 - Initial Release
 
 1.1 - Update necessary script for Like a Werehog compatibility
+
+1.1.1 (Hotfix) - Fixed an adjustment to mod directories that was only partially chnaged
