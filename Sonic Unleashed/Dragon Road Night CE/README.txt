@@ -10,6 +10,10 @@ https://gamebanana.com/members/1793075
 archxe: Originally released the beta setdata on console that was ported and repackaged for Recompiled
 https://gamebanana.com/members/1771337
 
+---Contributors---
+EternallyEmber: Provided camera set for Act 1 + 1-2 layout
+https://gamebanana.com/members/1975514
+
 ---Testing---
 troy_the_boy
 
