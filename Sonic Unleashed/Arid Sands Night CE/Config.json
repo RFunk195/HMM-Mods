@@ -1,0 +1,109 @@
+{
+	"Groups":[
+		{
+		"Name":"Main",
+		"DisplayName":"Configuration",
+		"Elements":
+			[
+				{
+					"Name":"IncludeDir1",
+					"DisplayName":"Layout",
+					"Description":[
+						"Choose between two different level layouts for Act 1."
+					],
+					"Type":"layoutEnum",
+					"MinValue":null,
+					"MaxValue":null,
+					"DefaultValue":"layoutFinal"
+				},
+                {
+					"Name":"IncludeDir2",
+					"DisplayName":"Medal/Media Locations",
+					"Description":[
+						"Choose between two different options for placing Act 1's hidden medals and media collectibles."
+					],
+					"Type":"itemEnum",
+					"MinValue":null,
+					"MaxValue":null,
+					"DefaultValue":"itemFinal"
+				},
+                {
+					"Name":"IncludeDir3",
+					"DisplayName":"Ranking",
+					"Description":[
+						"Choose whether to enable/disable the mod's tweaked rank table."
+					],
+					"Type":"rankEnum",
+					"MinValue":null,
+					"MaxValue":null,
+					"DefaultValue":"rankTweaked"
+                }
+			]
+		}
+	],
+	"Enums":{
+		"layoutEnum":[
+			{
+				"DisplayName":"Final + Beta",
+				"Value":"layoutFinal",
+				"Description":[
+					"Sets a custom made layout of Act 1 and the latter half of the October 14, 2008 prototype build stitched together."
+            ]
+			},
+			{
+				"DisplayName":"Beta",
+				"Value":"layoutBeta",
+				"Description":[
+					"Sets the layout that was used in the October 14, 2008 prototype build without any other adjustments."
+				]
+			}
+		],
+        "itemEnum":[
+			{
+				"DisplayName":"Final",
+				"Value":"itemFinal",
+				"Description":[
+					"Places the level's medals and media collectibles in their normal locations from Act 1.",
+                    "This means that all items will be contained in the first half of the level at their known spots."
+            ]
+			},
+			{
+				"DisplayName":"Beta",
+				"Value":"itemBeta",
+				"Description":[
+					"Places the level's medals and media collectibles in locations used in the October 14, 2008 prototype build.",
+                    "This means that all items will be spread across the entire level at different spots."
+				]
+			}
+		],
+        "rankEnum":[
+			{
+				"DisplayName":"Tweaked",
+				"Value":"rankTweaked",
+				"Description":[
+					"Increases both Act 1 and 2's time bonus and rank requirements to scale for the longer length of both.",
+                    "Act 1 and 2 requirements:",
+                    "S - 500000",
+                    "A - 400000",
+                    "B - 300000",
+                    "C - 200000",
+                    "D - 100000"
+            ]
+			},
+			{
+				"DisplayName":"Vanilla",
+				"Value":"rankVanilla",
+				"Description":[
+					"Sets Act 1 and 2's time bonus and rank requirements to their default values.",
+                    "Act 1 and 2 requirements:",
+                    "S - 300000",
+                    "A - 200000",
+                    "B - 150000",
+                    "C - 100000",
+                    "D - 50000"
+				]
+			}
+		]
+	},
+	"IniFile":"mod.ini"
+}
