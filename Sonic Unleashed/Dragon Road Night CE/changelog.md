@@ -2,6 +2,7 @@
 
 - Restore 1-2 cameras for Act 1 + 1-2 layout
 - Rectify oversight that caused Act 1-2's rank adjustments and Like a Werehog styles to never actually load
+- Increase hotdog mission time limits
 
 ## Dragon Road Night - Complete Edition Version 1.1.1 (Hotfix)
 
