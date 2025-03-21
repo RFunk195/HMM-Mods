@@ -5,7 +5,7 @@ This mod for Arid Sands Night Act 1 unlocks the latter half of the level that wa
 
 Two additional tidbits to note:
 - All layouts let you have access to the shortcut to the beta area that's normally blocked off in both Act 1 and 2.
-- The infamous kaizo fight room in Act 1 has been slightly tweaked to not take as long. The reason why the purple wall keeping you in tends not to disappear is because the arena's Dark Masters spawn one at a time in a baffling 20 seconds after the prior one's been killed. This has been changed so they now spawn 1 second apart like the other enemies. This still means having fight 20 enemies in total to escape, so still only enter that room at your own risk!
+- The infamous kaizo fight room in Act 1 has been slightly tweaked to not take as long. The reason why the purple wall keeping you in tends not to disappear is because the arena's Dark Masters spawn one at a time in a baffling 20 seconds after the prior one's been killed. This has been changed so they now spawn 1 second apart like the other enemies. This still means having to fight 20 enemies in total to escape, so still only enter that room at your own risk!
 
 ---CREDITS---
 RFunk195: Developer of Arid Sands Night - Complete Edition
