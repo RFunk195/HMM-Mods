@@ -3,6 +3,8 @@ add README.txt
 add Config.json
 add rankTweaked/+#Application.ar.00
 add rankTweaked/+#Application.arl
+add rankVanilla/+#Application.ar.00
+add rankVanilla/+#Application.arl
 delete rankTweaked/work/ActN_SubChina_03/Stage.stg.xml
 add #ActN_SubChina_03.ar.00
 add #ActN_SubChina_03.arl
